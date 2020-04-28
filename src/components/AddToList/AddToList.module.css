@@ -1,0 +1,22 @@
+.AddToList h1 {
+    line-height: 1;
+    margin: 15px 0 0 0;
+}
+
+.FormWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:  40px;
+    align-items: flex-end;
+}
+
+.FormWrapper input {
+    height: 36px;
+    padding: 0 10px;
+    margin: 0;
+    font-size: 14px;
+}
+
+.InputRow {
+    width: calc(100% - 120px);
+}
